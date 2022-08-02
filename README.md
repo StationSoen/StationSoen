@@ -14,6 +14,6 @@
 - Gatsby
 
 ### 🔗 Link
-- [Blog](blog.sunghyun.co) - ([Repository](https://github.com/StationSoen/Blog))
+- [Blog](https://log.sunghyun.co) - ([Repository](https://github.com/StationSoen/Blog))
 - [Resume](https://github.com/StationSoen/StationSoen/files/9200359/default.pdf)
-- [portfolio](portfolio.sunghyun.co)
+- [portfolio](https://portfolio.sunghyun.co)
