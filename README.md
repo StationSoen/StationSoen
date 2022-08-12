@@ -16,4 +16,4 @@
 ### 🔗 Link
 - [Blog](https://blog.sunghyun.co) - ([Repository](https://github.com/StationSoen/Blog))
 - [Resume](https://blog.sunghyun.co/about/)
-- [portfolio](https://portfolio.sunghyun.co)
+- [Portfolio](https://blog.sunghyun.co/portfolio)
