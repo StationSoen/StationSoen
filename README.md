@@ -14,4 +14,3 @@
 - [Blog](https://blog.sunghyun.co) - ([Repository](https://github.com/StationSoen/Blog))
 - [Resume](https://blog.sunghyun.co/about/)
 - [Portfolio](https://blog.sunghyun.co/portfolio)
-- ~~[Notion Portfolio (deprecated)](https://portfolio.sunghyun.co)~~
