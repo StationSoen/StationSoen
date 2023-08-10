@@ -1,2 +1,1 @@
-- [Resume](https://blog.sunghyun.co/about/)
-- [Portfolio](https://blog.sunghyun.co/portfolio)
+### StationSoen's Github.
